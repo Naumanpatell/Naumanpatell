@@ -7,7 +7,7 @@
 
 # 🛠️ Skills
 
-|      Category         |                                           Skills                                                      |
+| Category         |                                           Skills                                                           |
 |-----------------------|------------------------------------------------------------------------------------------------------ |
 | **Languages**         | Python (Proficient), Java (Intermediate), JavaScript, HTML, CSS                                       |
 | **Frameworks**        | Flask                                                                                                 |
