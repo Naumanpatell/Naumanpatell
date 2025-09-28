@@ -5,13 +5,16 @@
 
 ---
 
-## 🔧 Technical Skills  
+# 🛠️ Skills
 
-**Languages:** Python (Proficient), Java (Intermediate), JavaScript, HTML, CSS  
-**Frameworks:** Flask  
-**Databases & Tools:** MySQL, Git, GitHub, VS Code  
-**AI/ML Libraries:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib  
-**CS Concepts:** Data Structures & Algorithms, OOP, API Integration, Databases, Machine Learning, Neural Networks, NLP  
+|      Category         |                                           Skills                                                      |
+|-----------------------|------------------------------------------------------------------------------------------------------ |
+| **Languages**         | Python (Proficient), Java (Intermediate), JavaScript, HTML, CSS                                       |
+| **Frameworks**        | Flask                                                                                                 |
+| **Databases & Tools** | MySQL, Git, GitHub, VS Code                                                                           |
+| **AI/ML Libraries**   | TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib                                          |
+| **CS Concepts**       | Data Structures & Algorithms, OOP, API Integration, Databases, Machine Learning, Neural Networks, NLP |
+
 
 ---
 
