@@ -36,38 +36,6 @@
 
 ---
 
-## 💼 Experience  
-
-**Teaching Assistant – University of Leicester (Sept 2025 – Present)**  
-- Guided 100+ students through coding exercises & debugging  
-- Explained complex CS concepts like CPU organisation & memory systems  
-- Supported lecturers by preparing lab tutorials and improving materials  
-
-**Administrator – Avita Legal (July 2025 – Sept 2025)**  
-- Maintained 100+ client files in a case management system  
-- Generated detailed reports to support decision-making  
-- Strengthened communication skills via client & legal interactions  
-
-**Treasurer – LeicesterCS Society (June 2025 – Present)**  
-- Managed a £3,000+ budget for hackathons & coding workshops  
-- Organised successful tech events with 100+ students  
-- Improved budgeting efficiency, reducing costs by 15%  
-
-**Tutor – Vidya Learning (April 2025 – July 2025)**  
-- Tutored 20+ students in CS & Maths, improving comprehension  
-- Tailored lessons & resources to individual student needs  
-- Boosted student performance & engagement  
-
----
-
-## 🎓 Education  
-
-**University of Leicester (2023 – 2027)**  
-- BSc Computer Science  
-- Achieved **First Class** in Year 1  
-- Relevant Coursework: Algorithms, Databases, Software Engineering, Discrete Mathematics, Machine Learning (Expected), AI (Expected), Data Mining (Expected)  
-
----
 
 ## 📊 GitHub Stats  
 
