@@ -20,7 +20,15 @@
 
 ## 📌 Projects  
 
+### 🔹 [Pokeverse](https://github.com/Naumanpatell/PokeVerse) – Interactive Pokémon Guide  
+- [https://pokeverse.website/]
+- Responsive web app with Flask + PokéAPI (10,000+ Pokémon)  
+- Dynamic card-based UI with animations & search functionality  
+- Built-in chatbot to answer Pokémon queries  
+- Optimised API calls for fast load times  
+
 ### 🔹 [Personal Portfolio](https://github.com/Naumanpatell/Portfolio-Website) – Portfolio Website  
+- [https://naumanpatel.live/]
 - Built with Flask, Python, HTML, CSS, and JavaScript  
 - Dynamic, responsive portfolio to showcase projects & skills  
 - Modular design for easy updates, with smooth animations and a clean UI  
@@ -31,11 +39,7 @@
 - User dashboards & secure authentication with MySQL  
 - Improved retention through personalised learning outcomes  
 
-### 🔹 [Pokeverse](https://github.com/Naumanpatell/PokeVerse) – Interactive Pokémon Guide  
-- Responsive web app with Flask + PokéAPI (10,000+ Pokémon)  
-- Dynamic card-based UI with animations & search functionality  
-- Built-in chatbot to answer Pokémon queries  
-- Optimised API calls for fast load times  
+
 
 ---
 
