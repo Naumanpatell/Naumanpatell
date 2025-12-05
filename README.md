@@ -1,52 +1,102 @@
-👋 Hi, I'm Nauman Patel
-BSc Computer Science Student @ University of Leicester | First Class Honours (Year 1)
-Passionate about building intelligent systems at the intersection of Software Engineering and AI/ML
+# 👋 Hi, I'm **Nauman Patel**  
+🎓 BSc Computer Science @ University of Leicester (First Class – Year 1)  
+💼 Software Engineer | AI/ML Enthusiast
 
-🛠️ Technical Skills
-Languages: Python (Proficient) • Java (Intermediate) • JavaScript • HTML • CSS
-Frameworks & Tools: Flask • React.js • Git & GitHub • MySQL • VS Code
-AI/ML Stack: TensorFlow • PyTorch • scikit-learn • Pandas • NumPy • Matplotlib • Hugging Face Transformers
-Core CS: Data Structures & Algorithms • Object-Oriented Programming • REST APIs • Database Design • Machine Learning • Neural Networks • NLP • Computer Vision
+---
 
-🚀 Featured Projects
-🎯 Cognivue — Multimodal Video Intelligence System
-Full-stack AI platform that transforms videos into actionable insights
+## 🏷️ Quick Facts  
+[![GitHub followers](https://img.shields.io/github/followers/nauman-patel?label=Followers&style=social)](https://github.com/nauman-patel)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nauman-patel)  
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:nauman0504@gmail.com)
 
-Integrated Whisper ASR for speech-to-text transcription and Hugging Face vision models for object/scene detection
-Built NLP pipeline for automated text summarization, topic extraction, and sentiment analysis
-Designed React.js dashboard with Chart.js visualizations for interactive data exploration
-Developed scalable Flask REST API with modular architecture supporting video processing workflows
-Tech Stack: React.js, Flask, Hugging Face Transformers, Whisper, OpenCV, Chart.js
+---
 
-Contributors: Afonso, Nauman Patel
+## 🛠️ Tech Stack & Skills  
 
-🔮 Pokeverse — Interactive Pokémon Guide
-Dynamic web application for exploring comprehensive Pokémon data
+### 💻 Languages & Frameworks  
+- **Python** | Java | JavaScript  
+- HTML & CSS  
+- Flask for backend  
+- React.js for front-end  
 
-Built responsive Flask web app integrating PokéAPI with 10,000+ Pokémon entries
-Implemented intelligent chatbot for natural language Pokémon queries
-Designed card-based UI with smooth animations and real-time search functionality
-Optimized API caching strategy reducing load times by 60%
-Tech Stack: Flask, Python, PokéAPI, JavaScript, HTML/CSS
+### 📊 Tools & Libraries  
+- Git, GitHub, VS Code  
+- Machine Learning & Data: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib  
+- NLP & Computer Vision: Hugging Face Transformers, OpenCV, Whisper  
+- Databases & APIs: MySQL, REST API integration  
+- Data Structures, Algorithms & Full-Stack Design  
+
+---
+
+## 🚀 Selected Projects  
+
+### 🔹 Cognivue — Multimodal Video-Intelligence Platform  
+[Live Demo / Repo →](#)  
+A full-stack AI-powered system that converts video content into structured insights using speech recognition, vision models, NLP, and interactive dashboards.  
+
+**Features:**  
+- Video upload & processing pipeline  
+- Automatic speech-to-text (Whisper)  
+- Object & scene detection (Hugging Face vision models)  
+- Text summarization, sentiment & topic extraction  
+- React.js dashboard: charts, keyword clouds & interactive UI  
+- Modular Flask REST API backend for AI pipelines  
+
+**Tech Stack:** React.js · Chart.js · D3.js · Python · Flask · Whisper · Hugging Face · OpenCV · Librosa · AWS S3 / SQLite  
+
+---
+
+### 🔹 Pokeverse — Interactive Pokémon Guide  
+[See ➜ pokeverse.website](https://pokeverse.website/)  
+An immersive Pokémon encyclopedia built with Flask + PokéAPI and interactive design.  
+
+✅ Dynamic card-based UI  
+✅ Search & filter 10,000+ Pokémon  
+✅ Built-in chatbot for queries  
+✅ Optimised API calls for performance  
+
+---
+
+### 🔹 Personal Portfolio  
+[See ➜ naumanpatel.live](https://naumanpatel.live/)  
+A clean, responsive portfolio showcasing my projects, skills, and journey. Built using Flask, HTML, CSS, and JavaScript with smooth transitions and modular design.  
+
+---
+
+## 📈 GitHub Stats  
+## 📊 GitHub Analytics
+
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nauman-patel&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📈 Overall GitHub Stats  
+![Nauman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nauman-patel&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+---
+
+### 🌀 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-patel&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🧮 Contribution Graph  
+![Nauman's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nauman-patel&theme=react-dark&hide_border=true)
+
+---
+
+### 🧩 Contribution Breakdown  
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nauman-patel&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nauman-patel&theme=radical)
 
 
-💼 Personal Portfolio
-Professional portfolio website showcasing projects and technical expertise
+---
 
-Developed with Flask backend and modern frontend using HTML, CSS, and JavaScript
-Implemented modular architecture for seamless content updates and scalability
-Designed responsive UI with smooth animations and intuitive navigation
-Tech Stack: Flask, Python, JavaScript, HTML/CSS
+## 👨‍💻 Let's Connect  
+📧 Email — nauman0504@gmail.com  
+🔗 LinkedIn — [linkedin.com/in/nauman-patel](https://www.linkedin.com/in/nauman-patel)  
 
+---
 
-📊 GitHub Stats
-<div align="center">
-Show Image
-Show Image
-</div>
-
-🌐 Connect With Me
-📧 Email: naumanofficial9@gmail.com
-💼 LinkedIn: www.linkedin.com/in/naumanpatel
-🌍 Portfolio: naumanpatel.live
-💻 GitHub: @Naumanpatell
+*“Code is like humor. When you have to explain it, it’s bad.”*  
