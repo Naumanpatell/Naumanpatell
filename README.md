@@ -64,28 +64,27 @@ A clean, responsive portfolio showcasing my projects, skills, and journey. Built
 ## 📊 GitHub Analytics
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Naumanpatell&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=NaumanPatell&theme=dark)
 
 ---
 
 ### 📈 Overall GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naumanpatell&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaumanPatell&show_icons=true&theme=dark)
 
 ---
 
 ### 🌀 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naumanpatell&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanPatell&layout=compact&theme=dark)
 
 ---
 
 ### 🧮 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naumanpatell&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaumanPatell&theme=react-dark&hide_border=true)
 
 ---
 
 ### 🧩 Contribution Breakdown  
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naumanpatell&theme=radical)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naumanpatell&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaumanPatell&theme=radical)
 
 
 ---
