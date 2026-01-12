@@ -64,7 +64,7 @@ A clean, responsive portfolio showcasing my projects, skills, and journey. Built
 ## 📊 GitHub Analytics
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=NaumanPatell&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Naumanpatell&theme=dark&cache_seconds=86400)
 
 ---
 
