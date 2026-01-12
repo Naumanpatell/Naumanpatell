@@ -5,7 +5,6 @@
 ---
 
 ## 🏷️ Quick Facts  
-[![GitHub followers](https://img.shields.io/github/followers/Naumanpatell?label=Followers&style=social)](https://github.com/nauman-patel)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NaumanPatell)  
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:nauman0504@gmail.com)
 
@@ -65,28 +64,28 @@ A clean, responsive portfolio showcasing my projects, skills, and journey. Built
 ## 📊 GitHub Analytics
 
 ### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NaumanPatell&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Naumanpatell&theme=dark)
 
 ---
 
 ### 📈 Overall GitHub Stats  
-![Nauman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaumanPatell&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naumanpatell&show_icons=true&theme=dark)
 
 ---
 
 ### 🌀 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanPatell&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naumanpatell&layout=compact&theme=dark)
 
 ---
 
 ### 🧮 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaumanPatell&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naumanpatell&theme=react-dark&hide_border=true)
 
 ---
 
 ### 🧩 Contribution Breakdown  
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaumanPatell&theme=radical)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaumanPatell&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naumanpatell&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naumanpatell&theme=radical)
 
 
 ---
