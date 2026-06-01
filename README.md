@@ -68,21 +68,6 @@ A clean, responsive portfolio showcasing my projects, skills, and journey. Built
 
 ---
 
-### 📈 Overall GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaumanPatell&show_icons=true&theme=dark)
-
----
-
-### 🌀 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanPatell&layout=compact&theme=dark)
-
----
-
-### 🧮 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaumanPatell&theme=react-dark&hide_border=true)
-
----
-
 ### 🧩 Contribution Breakdown  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaumanPatell&theme=radical)
 
